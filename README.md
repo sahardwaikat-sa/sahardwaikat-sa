@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**sahardwaikat-sa/sahardwaikat-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Sahar 👋
 
-Here are some ideas to get you started:
+Aspiring QA Engineer focused on API Testing, Manual & Automation Testing, and PMP-certified in project management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Currently building automation test suites (API testing with Java/RestAssured)
+- 🌱 Learning: test automation frameworks & CI/CD integration
+- 💬 Ask me about: manual testing, API testing, PMP/project coordination
+- 📫 Reach me: sahar.dwaikat@gmail.com | [LinkedIn](https://linkedin.com/in/sahar-dwikat)
+
+#### 🛠️ Tools & Skills
+`Manual Testing` `API Testing` `Postman` `Java` `RestAssured` `Git` `JIRA` `PMP`
+
+#### 📌 Featured Project
+**[restful-booker-api-automation-Test](https://github.com/sahardwaikat-sa/restful-booker-api-automation-Test)** — API test automation suite for the Restful Booker API.
