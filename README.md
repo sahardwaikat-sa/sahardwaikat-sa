@@ -9,7 +9,7 @@ Aspiring QA Engineer focused on API Testing, Manual & Automation Testing, and PM
 - 📫 Reach me: sahar.dwaikat@gmail.com | [LinkedIn](https://linkedin.com/in/sahar-dwikat)
 
 #### 🛠️ Tools & Skills
-`Manual Testing` `API Testing` `Postman` `Java` `Git` `JIRA` `PMP`
+`Manual Testing` `API Testing` `Postman` `Java` `Git` `JIRA` `PMP`'Selenium''TestNG'
 
 #### 📌 Featured Project
 **[restful-booker-api-automation-Test](https://github.com/sahardwaikat-sa/restful-booker-api-automation-Test)** — API test automation suite for the Restful Booker API.
