@@ -5,7 +5,7 @@ Aspiring QA Engineer focused on API Testing, Manual & Automation Testing, and PM
 
 - 🔍 Currently building automation test suites (API testing with Java/RestAssured)
 - 🌱 Learning: test automation frameworks & CI/CD integration
-- 💬 Ask me about: manual testing, API testing, PMP/project coordination
+- 💬 Ask me about: manual testing, API testing, Automation testing, PMP/project coordination
 - 📫 Reach me: sahar.dwaikat@gmail.com | [LinkedIn](https://linkedin.com/in/sahar-dwikat)
 
 #### 🛠️ Tools & Skills
